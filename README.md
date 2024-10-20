@@ -1,4 +1,8 @@
-[![](coder.gif)](https://github.com/Moontaz)
+<div align="center" style="background-color: white; width: 100%; height: auto;">
+  <a href="https://github.com/Moontaz">
+    <img src="profile.gif" alt="Profile GIF" style="max-width: 100%; height: auto;" />
+  </a>
+</div>
 
 ##### Languages
 
