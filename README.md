@@ -4,6 +4,9 @@
   </a>
 </div>
 
+## Hi there! 👋
+I’m Muhammad (Ridiey) Mumtaz, a full-stack developer specializing in Next.js and Node.js. Passionate about building scalable web applications with seamless user experiences and efficient backend systems.
+
 ##### Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=JavaScript)
@@ -23,11 +26,13 @@
 ##### Full Stack Projects
 
 [![](https://img.shields.io/badge/-🚍%20Luxe%20Travel-000)](https://github.com/Moontaz/LuxeTravel-v1.0.0)  
-Real-time bus ticket booking with seat management and food add-ons.
 
 #### Stats
 
 <a href="https://github.com/Moontaz">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Moontaz&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moontaz&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Moontaz&theme=vue&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21" />
 </a>
+<a href="https://github.com/Moontaz">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moontaz&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=vue" />
+</a>
+
