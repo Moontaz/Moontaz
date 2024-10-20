@@ -28,6 +28,6 @@ Real-time bus ticket booking with seat management and food add-ons.
 #### Stats
 
 <a href="https://github.com/Moontaz">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Moontaz&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=radical" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moontaz&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=radical" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Moontaz&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moontaz&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=graywhite" />
 </a>
