@@ -5,7 +5,7 @@
 </div>
 
 ## Hi there! 👋
-I’m Muhammad (Ridiey) Mumtaz, a full-stack developer specializing in Next.js and Node.js. Passionate about building scalable web applications with seamless user experiences and efficient backend systems.
+I'm Muhammad (Ridiey) Mumtaz – a passionate full-stack developer focused on building seamless, scalable web applications. I specialize in frameworks like ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=Next.js) and ![Node.js](https://img.shields.io/badge/-Node.js-000?logo=Node.js), creating interactive UIs and efficient server-side systems. Recently, I developed a real-time bus ticketing system with secure authentication and API integrations. Currently, I’m pursuing a Bachelor's in Currently pursuing a Bachelor's in Informatics Engineering (similar to Computer Science) at UIN Maulana Malik Ibrahim (GPA 3.81) while continuously learning and working on innovative projects.
 
 ##### Languages
 
